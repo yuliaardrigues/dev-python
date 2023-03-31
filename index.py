@@ -9,4 +9,4 @@ if a == '3':
 if a == '4':
     print('Total: R$ {:.2f}'.format(2.00*float(b)))
 if a == '5':
- print('Total: R$ {:.2f}'.format(1.50*float(b)))
+    print('Total: R$ {:.2f}'.format(1.50*float(b)))
